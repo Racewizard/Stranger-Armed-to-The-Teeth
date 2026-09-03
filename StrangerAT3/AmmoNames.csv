@@ -1,0 +1,32 @@
+Name,Display,Enemies,AoE,Order
+damagearmadillo,Thudslug,1,0,0
+damagearmadilloloader,Thudslug Upgrade 1 (Reloader),1,0,1
+damagearmadilloloaderextender,Thudslug Upgrade 2 (Extender),1,0,2
+damageriotslug,Riotslug,1,0,3
+damagebeegun,Stingbee,1,0,4
+damagebeegunextendersmall,Stingbee Upgrade 1 (Extender),1,0,5
+damagestingbee,Super Stingbee,1,0,6
+trapfuzzle,Fuzzle,1,0,7
+trapfuzzleloader,Fuzzle Upgrade 1 (Reloader),1,0,8
+trapfuzzleloaderextender,Fuzzle Upgrade 2 (Extender),1,0,9
+trapfuzzlerabid,Rabid Fuzzle,1,0,10
+trapfuzzlejump,Fuzzle Pounce,1,0,11
+trapfuzzlerabidjump,Rabid Fuzzle Pounce,1,0,12
+immobilizespiderbola,Bolamite,1,0,13
+immobilizespiderbolaextendersmall,Bolamite Upgrade 1 (Extender),1,0,14
+immobilizespiderbolaextendermedium,Bolamite Upgrade 2 (Extender),1,0,15
+immobilizebolablast,Bola-Blast,1,0,16
+sniperdart,Sniper Wasp,1,0,17
+immobilizeskunkbomb,Stunkz,1,1,18
+immobilizeskunkbombextender,Stunkz Upgrade 1 (Extender),1,1,19
+immobilizesparkstunkz,Spark Stunkz,1,1,20
+damagedynamite,Boombat,1,1,21
+damagedynamiteextender,Boombat Upgrade 1 (Extender),1,1,22
+damagedynamiteextenderloader,Boombat Upgrade 2 (Reloader),1,1,23
+damageboombatqueen,Boombat Seekers,1,1,24
+activatehivequeen,activatehivequeen,0,0,100
+activatehivequeencharged,activatehivequeencharged,0,0,101
+punch,punch,0,0,102
+sendtochipmunk,sendtochipmunk,0,0,103
+sendtochipmunkextender,sendtochipmunkextender,0,0,104
+sendtohowlerpunk,sendtohowlerpunk,0,0,105

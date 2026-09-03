@@ -1,0 +1,12 @@
+Key,Value
+Enabled,0
+RosterHostiles,1
+RosterFriendlies,0
+RosterBosses,0
+RosterDeathray,0
+RosterTiny,0
+IntoHostile,1
+IntoFriendly,0
+IntoBosses,0
+IntoProgression,0
+Seed,

@@ -1,0 +1,382 @@
+{
+  "Name": "AT3 Official",
+  "Saved": "2026-08-31T19:30:29",
+  "Description": "Stranger: Armed to the Teeth - the official set. Builds jailbreak_blisterz (a new character hash) from vanilla records on your own install, arms him with Filthy Hands Floyd's rifle, and restages the Boilz Booty fight. Ships no game files - only the recipe.",
+  "Recipes": [
+    "jailbreak_blisterz.recipe.json"
+  ],
+  "Global": {
+    "Health": "",
+    "Stamina": "",
+    "FireRate": "1.2",
+    "Reload": "1",
+    "Accuracy": "1",
+    "MissTime": "10"
+  },
+  "Ammo": [
+    {
+      "Name": "activatehivequeen",
+      "Knock": 0,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "activatehivequeencharged",
+      "Knock": 0,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "damagearmadillo",
+      "Knock": 10,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "damagearmadilloloader",
+      "Knock": 15,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "damagearmadilloloaderextender",
+      "Knock": 17.5,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "damagebeegun",
+      "Knock": 0.1,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "damagebeegunextendersmall",
+      "Knock": 0.15,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "damageboombatqueen",
+      "Knock": 50,
+      "KnockPlayer": 10
+    },
+    {
+      "Name": "damagedynamite",
+      "Knock": 15,
+      "KnockPlayer": 2.5
+    },
+    {
+      "Name": "damagedynamiteextender",
+      "Knock": 20,
+      "KnockPlayer": 5
+    },
+    {
+      "Name": "damagedynamiteextenderloader",
+      "Knock": 25,
+      "KnockPlayer": 6
+    },
+    {
+      "Name": "damageriotslug",
+      "Knock": 25,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "damagestingbee",
+      "Knock": 0.15,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "immobilizebolablast",
+      "Knock": 15,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "immobilizeskunkbomb",
+      "Knock": 0,
+      "KnockPlayer": 2
+    },
+    {
+      "Name": "immobilizeskunkbombextender",
+      "Knock": 1,
+      "KnockPlayer": 2.5
+    },
+    {
+      "Name": "immobilizesparkstunkz",
+      "Knock": -1,
+      "KnockPlayer": 5
+    },
+    {
+      "Name": "immobilizespiderbola",
+      "Knock": 5,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "immobilizespiderbolaextendermedium",
+      "Knock": 7,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "immobilizespiderbolaextendersmall",
+      "Knock": 6,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "punch",
+      "Knock": 0,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "sendtochipmunk",
+      "Knock": 0,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "sendtochipmunkextender",
+      "Knock": 0,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "sendtohowlerpunk",
+      "Knock": 0,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "sniperdart",
+      "Knock": 20,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "trapfuzzle",
+      "Knock": 0,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "trapfuzzlejump",
+      "Knock": 5,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "trapfuzzleloader",
+      "Knock": 0,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "trapfuzzleloaderextender",
+      "Knock": 0,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "trapfuzzlerabid",
+      "Knock": 0,
+      "KnockPlayer": -1
+    },
+    {
+      "Name": "trapfuzzlerabidjump",
+      "Knock": 12.5,
+      "KnockPlayer": -1
+    }
+  ],
+  "Weapons": [
+    {
+      "File": "data/bundles/region_01/lm_level_01/lm_level_01_tgl.smb",
+      "Hash": "FFFFF30A",
+      "RecOff": 449935,
+      "Fields": [
+        {
+          "Name": "damage",
+          "Off": 109,
+          "Kind": "f",
+          "Value": 15.0
+        },
+        {
+          "Name": "stamina",
+          "Off": 123,
+          "Kind": "f",
+          "Value": 10.0
+        },
+        {
+          "Name": "clipCapacity",
+          "Off": 194,
+          "Kind": "i",
+          "Value": 3
+        },
+        {
+          "Name": "fireRate",
+          "Off": 338,
+          "Kind": "f",
+          "Value": 0.25
+        },
+        {
+          "Name": "reloadTime",
+          "Off": 343,
+          "Kind": "f",
+          "Value": 1.0
+        },
+        {
+          "Name": "accuracyWidth",
+          "Off": 379,
+          "Kind": "f",
+          "Value": 0.0
+        },
+        {
+          "Name": "missTime",
+          "Off": 383,
+          "Kind": "f",
+          "Value": 0.0
+        }
+      ]
+    },
+    {
+      "File": "data/bundles/region_01/lm_level_01_blockmap.smh",
+      "Hash": "FFFFF30A",
+      "RecOff": 449947,
+      "Fields": [
+        {
+          "Name": "damage",
+          "Off": 109,
+          "Kind": "f",
+          "Value": 15.0
+        },
+        {
+          "Name": "stamina",
+          "Off": 123,
+          "Kind": "f",
+          "Value": 10.0
+        },
+        {
+          "Name": "clipCapacity",
+          "Off": 194,
+          "Kind": "i",
+          "Value": 3
+        },
+        {
+          "Name": "fireRate",
+          "Off": 338,
+          "Kind": "f",
+          "Value": 0.25
+        },
+        {
+          "Name": "reloadTime",
+          "Off": 343,
+          "Kind": "f",
+          "Value": 1.0
+        },
+        {
+          "Name": "accuracyWidth",
+          "Off": 379,
+          "Kind": "f",
+          "Value": 0.0
+        },
+        {
+          "Name": "missTime",
+          "Off": 383,
+          "Kind": "f",
+          "Value": 0.0
+        }
+      ]
+    }
+  ],
+  "Spawns": [
+    {
+      "File": "data/bundles/region_01/lm_level_01.lvl",
+      "Slot": 47,
+      "Offset": 192877,
+      "Hash": "FFFFDB52",
+      "Note": "jailbreak_blisterz takes Boilz's place"
+    },
+    {
+      "File": "data/bundles/region_01/lm_level_01.lvl",
+      "Slot": 45,
+      "Offset": 192475,
+      "Hash": "155A0299",
+      "Note": "Boilz Booty moved to the nearest shooter's post"
+    },
+    {
+      "File": "data/bundles/region_01/lm_level_01.lvl",
+      "Slot": 114,
+      "Offset": 619553,
+      "Hash": "072A64D6",
+      "Note": "crane_pair returned to a stock outlaw_cutter"
+    },
+    {
+      "File": "data/bundles/region_01/lm_level_01.lvl",
+      "Slot": 44,
+      "Offset": 192274,
+      "Hash": "FF0100ED",
+      "Note": "boilz_mortar_01"
+    },
+    {
+      "File": "data/bundles/region_01/lm_level_01.lvl",
+      "Slot": 46,
+      "Offset": 192676,
+      "Hash": "FF0100ED",
+      "Note": "boilz_mortar_02"
+    },
+    {
+      "File": "data/bundles/region_01/lm_level_01.lvl",
+      "Slot": 48,
+      "Offset": 193078,
+      "Hash": "072A64D6",
+      "Note": "boilz_cutter_pair"
+    },
+    {
+      "File": "data/bundles/region_01/lm_level_01.lvl",
+      "Slot": 49,
+      "Offset": 193279,
+      "Hash": "072A64D6",
+      "Note": "boilz_cutter_pair"
+    }
+  ],
+  "Jobs": [
+    {
+      "File": "data/bundles/region_01/lm_level_01.lvl",
+      "Slot": 47,
+      "Offset": 192877,
+      "Writes": [
+        -36,
+        67
+      ],
+      "Hash": "015D7FB0",
+      "Note": "jailbreak's own cloned boss job - its own capture flags"
+    },
+    {
+      "File": "data/bundles/region_01/lm_level_01.lvl",
+      "Slot": 45,
+      "Offset": 192475,
+      "Writes": [
+        -36,
+        67
+      ],
+      "Hash": "87C90D1E",
+      "Note": "Boilz keeps his original boss job"
+    }
+  ],
+  "Requires": [
+    {
+      "Hash": "FFFFDB52",
+      "What": "jailbreak_blisterz character record",
+      "Bundles": [
+        "lm_level_01_tgl.smb"
+      ],
+      "SuppliedBy": "Recipe"
+    },
+    {
+      "Hash": "FFFFF30A",
+      "What": "its weapon record",
+      "Bundles": [
+        "lm_level_01_tgl.smb"
+      ],
+      "SuppliedBy": "Recipe"
+    },
+    {
+      "Hash": "1E3C8910",
+      "What": "gun_01.geo - Floyd's rifle mesh",
+      "Bundles": [
+        "npc_23.smb"
+      ],
+      "SuppliedBy": "Recipe"
+    },
+    {
+      "Hash": "015D7FB0",
+      "What": "jailbreak's cloned boss job script",
+      "Bundles": [
+        "npc_19.smb"
+      ],
+      "SuppliedBy": "Recipe"
+    }
+  ]
+}

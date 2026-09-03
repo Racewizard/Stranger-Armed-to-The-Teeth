@@ -1,0 +1,257 @@
+Key,Name,Asset,Count,Bundle,Zones,BakedZones
+903830BE,Wolvark Officewindow 01,wolvark_officewindow_01.geo,130,zonebundle_53.smb,4,4
+795F16FB,Light Sconce 01,light_sconce_01.geo,122,zonebundle_53.smb,4,4
+BF48E499,Light Sconce 01,light_sconce_01.geo,114,zonebundle_66.smb,8,8
+252D3836,Bookstack 02,bookstack_02.geo,99,zonebundle_74.smb,12,12
+1ADF4BFE,NonDestLight,nonDestLight.geo,95,zonebundle_29.smb,3;4;6;7;8;9,3;4;6;7;8;9
+A3B94A98,Bookstack 01,bookstack_01.geo,95,zonebundle_74.smb,12,12
+F3196E21,Cargo Container 04,cargo_container_04.geo,69,zonebundle_29.smb,3;4;6;7;8;9,3;4;6;7;8;9
+C813C63A,Booksingle 03,booksingle_03.geo,67,zonebundle_74.smb,12,12
+88B273E5,Junk Debris 02,junk_debris_02.geo,65,zonebundle_74.smb,12,12
+276944A8,Wall Guilded 01,wall_guilded_01.geo,64,zonebundle_74.smb,12,12
+00B58A05,NonDestLight,nonDestLight.geo,62,zonebundle_22.smb,2;4;5;8,2;4;5;8
+85EEFEBC,De Proxy Bone,de_proxy_bone.geo,62,zonebundle_53.smb,4,4
+F85122EB,Wolvark Officewindow 01,wolvark_officewindow_01.geo,62,zonebundle_66.smb,8,8
+EDF7ACC8,Pole Yellow 01,pole_yellow_01.geo,52,zonebundle_53.smb,4,4
+310A3B52,WolvarkShooter,wolvarkShooter.geo,50,npc_14.smb,*,*
+0E26014B,Junk Debris 01,junk_debris_01.geo,49,zonebundle_74.smb,12,12
+034F159F,Booksingle 02,booksingle_02.geo,44,zonebundle_74.smb,12,12
+85DB6731,Booksingle 01,booksingle_01.geo,42,zonebundle_74.smb,12,12
+6CC3F525,WolvarkSemiAuto,wolvarkSemiAuto.geo,39,npc_17.smb,*,*
+1D137751,Cargo Container 04,cargo_container_04.geo,34,zonebundle_53.smb,4,4
+1A3625BD,Bookshelf 01,bookshelf_01.geo,33,zonebundle_74.smb,12,12
+7A6A4377,Industrial Light 02,industrial_light_02.geo,30,zonebundle_62.smb,7,7
+8FD6BBF5,Light Warehouse 01,light_warehouse_01.geo,29,zonebundle_2.smb,1;2;3;4;5;6;7;8;9;10;11;12;14;22,1;2;3;4;5;6;7;8;9;10;11;12;14;22
+10DC1054,De Proxy Bone,de_proxy_bone.geo,26,zonebundle_74.smb,12,12
+9F843F47,De Proxy Bone,de_proxy_bone.geo,26,zonebundle_66.smb,8,8
+64E4C60E,Jumpable Metalcrate 01,jumpable_metalcrate_01.geo,24,zonebundle_66.smb,8,8
+A171D998,Jumpable Metalcrate 01,jumpable_metalcrate_01.geo,24,zonebundle_53.smb,4,4
+441121C9,Cargo Container 03,cargo_container_03.geo,23,zonebundle_43.smb,3,3
+09D980C2,Cargo Container 01,cargo_container_01.geo,22,zonebundle_43.smb,3,3
+90A0C7A4,Glass TeslaTower2,glass_teslaTower2.geo,22,zonebundle_53.smb,4,4
+C474702D,Lightpost Guilded,lightpost_guilded.geo,22,zonebundle_69.smb,10;11;12,10;11;12
+335C513E,Florescent Lamp 01,florescent_lamp_01.geo,20,zonebundle_53.smb,4,4
+5E9537DE,Crate Sekto 02,crate_sekto_02.geo,19,zonebundle_21.smb,2;4;5;8;10;14;15,2;4;5;8;10;14;15
+B54B83E3,Plant Sekto 01,plant_sekto_01.geo,19,zonebundle_69.smb,10;11;12,10;11;12
+78F82CCD,Column 01,column_01.geo,18,zonebundle_74.smb,12,12
+7B30BC30,,,18,,?,?
+001647E9,Cargo Container 03,cargo_container_03.geo,17,zonebundle_53.smb,4,4
+32505438,WarningLight Red,warningLight_red.geo,17,zonebundle_66.smb,8,8
+B4C0D708,,,17,,?,?
+CACBDAC6,Light Sconce Purple,light_sconce_purple.geo,17,zonebundle_66.smb,8,8
+B66C5900,Office Vents 01,office_vents_01.geo,16,zonebundle_53.smb,4,4
+D8014570,Crate Sekto 01,crate_sekto_01.geo,16,zonebundle_22.smb,2;4;5;8,2;4;5;8
+DC791972,Crate Sekto 01,crate_sekto_01.geo,16,zonebundle_66.smb,8,8
+69629634,Dam Plexiglass 01,dam_plexiglass_01.geo,15,zonebundle_53.smb,4,4
+C044A99F,WolvarkGrenadier,wolvarkGrenadier.geo,15,npc_16.smb,*,*
+DB4A161C,Crate Sekto 01,crate_sekto_01.geo,15,zonebundle_27.smb,2,2
+E831F222,Floor Arrow 01,floor_arrow_01.geo,15,zonebundle_66.smb,8,8
+C082F596,Warning Barrier 01,warning_barrier_01.geo,13,zonebundle_43.smb,3,3
+D6841894,Light Sconce 01,light_sconce_01.geo,13,zonebundle_69.smb,10;11;12,10;11;12
+27DEED8A,Banner 01,banner_01.geo,12,zonebundle_69.smb,10;11;12,10;11;12
+9CE03F0D,Panel 03,panel_03.geo,12,zonebundle_53.smb,4,4
+CC2DAEBE,Panel 06,panel_06.geo,12,zonebundle_53.smb,4,4
+F1D95AEB,Lightpost Wall 01,lightpost_wall_01.geo,12,zonebundle_53.smb,4,4
+2AF93C19,AmmoCrate Stingbee 10,ammoCrate_stingbee_10.geo,11,zonebundle_74.smb,12,12
+33DFF14D,Plant Sekto 02,plant_sekto_02.geo,11,zonebundle_74.smb,12,12
+403809E1,Desk 02,desk_02.geo,11,zonebundle_53.smb,4,4
+6689A76B,Glass TeslaTower,glass_teslaTower.geo,11,zonebundle_53.smb,4,4
+C574D262,NonDestLight,nonDestLight.geo,11,zonebundle_2.smb,1;2;3;4;5;6;7;8;9;10;11;12;14;22,1;2;3;4;5;6;7;8;9;10;11;12;14;22
+EBE4CD69,Power Pole Facility Large,power_pole_facility_large.geo,11,zonebundle_43.smb,3,3
+3097A391,Sekto Lightpost Guilded,Sekto_lightpost_guilded.geo,10,zonebundle_74.smb,12,12
+3428F6F7,AmmoCrate Boombat 10,ammoCrate_boombat_10.geo,10,zonebundle_74.smb,12,12
+C6AC7B4F,Desk 01,desk_01.geo,10,zonebundle_53.smb,4,4
+5AED6BDC,Crate Sekto 02,crate_sekto_02.geo,9,zonebundle_66.smb,8,8
+F5A106E9,Lightpost Wall 01,lightpost_wall_01.geo,9,zonebundle_66.smb,8,8
+F627CFCE,Panel 08,panel_08.geo,9,zonebundle_53.smb,4,4
+09964BF2,MaSpaRailCart,maSpaRailCart.geo,8,zonebundle_53.smb,4,4
+2236A908,Dam Plexiglass 01,dam_plexiglass_01.geo,8,zonebundle_66.smb,8,8
+5D755EBA,Barrel Explosive,barrel_explosive.geo,8,zonebundle_66.smb,8,8
+7EC3D7BD,Cargo Crate Big,cargo_crate_big.geo,8,zonebundle_43.smb,3,3
+D1289E06,Panel 01,panel_01.geo,8,zonebundle_53.smb,4,4
+DDDCB0C4,Crate Sekto 01,crate_sekto_01.geo,8,zonebundle_71.smb,10,10
+F6DC7CF2,Pole Yellow 01,pole_yellow_01.geo,8,zonebundle_66.smb,8,8
+07717D1B,Panel 07,panel_07.geo,7,zonebundle_53.smb,4,4
+8E4A94DD,AmmoCrate Armadillo 10,ammoCrate_armadillo_10.geo,7,zonebundle_74.smb,12,12
+A19E9542,Death Fan 03,death_fan_03.geo,7,zonebundle_53.smb,4,4
+C59F5E7C,Floodlights Ceiling,floodlights_ceiling.geo,7,zonebundle_53.smb,4,4
+C919B5AE,DeathFan Damager,deathFan_damager.geo,7,zonebundle_53.smb,4,4
+E3F01900,Water Tank 01,water_tank_01.geo,7,zonebundle_66.smb,8,8
+16927F3E,BigRedButton,BigRedButton.geo,6,zonebundle_53.smb,4,4
+1A744DA3,Panel 00,panel_00.geo,6,zonebundle_53.smb,4,4
+1E3C8910,Gun 01,gun_01.geo,6,zonebundle_74.smb,12,12
+25B4F571,Sign Sekto 02,sign_sekto_02.geo,6,zonebundle_66.smb,8,8
+463249DA,Panel 08,panel_08.geo,6,zonebundle_66.smb,8,8
+60E502EB,Sign Location 3,sign_location_3.geo,6,zonebundle_29.smb,3;4;6;7;8;9,3;4;6;7;8;9
+66337C8B,Lantern Sconce 02,lantern_sconce_02.geo,6,zonebundle_53.smb,4,4
+6DAE232C,Sign Location 2,sign_location_2.geo,6,zonebundle_22.smb,2;4;5;8,2;4;5;8
+7CFB9CB8,AmmoCrate Skunk 10,ammoCrate_skunk_10.geo,6,zonebundle_53.smb,4,4
+89957D34,AmmoCrate Fuzzle 10,ammoCrate_fuzzle_10.geo,6,zonebundle_20.smb,2;3,2;3
+98A8FBBE,Gun 02,gun_02.geo,6,zonebundle_74.smb,12,12
+C2B1E3A1,File Cabinet 01,file_cabinet_01.geo,6,zonebundle_53.smb,4,4
+E34A7B61,Plack Steefhead,plack_steefhead.geo,6,zonebundle_74.smb,12,12
+2CC0FCA8,AmmoCrate Chipmonk 10,ammoCrate_chipmonk_10.geo,5,zonebundle_20.smb,2;3,2;3
+504FE3FF,AmmoCrate Armadillo 10,ammoCrate_armadillo_10.geo,5,zonebundle_20.smb,2;3,2;3
+707BAB62,Office Vents 01,office_vents_01.geo,5,zonebundle_66.smb,8,8
+8F4DF26C,Cargo Container 02,cargo_container_02.geo,5,zonebundle_43.smb,3,3
+982A7790,DamOfficeDoor,damOfficeDoor.geo,5,zonebundle_53.smb,4,4
+9A20A1E3,Light Sconce Purple,light_sconce_purple.geo,5,zonebundle_53.smb,4,4
+A32087DF,Sign Sekto 01,sign_sekto_01.geo,5,zonebundle_66.smb,8,8
+B49B3A57,ShockTank,shockTank.geo,5,npc_15.smb,*,*
+C5194895,AmmoCrate Spider 10,ammoCrate_spider_10.geo,5,zonebundle_20.smb,2;3,2;3
+EEE826D4,Sign Sekto 03,sign_sekto_03.geo,5,zonebundle_66.smb,8,8
+03B24D35,Desk 01,desk_01.geo,4,zonebundle_66.smb,8,8
+1EA9C4DE,WaterVat,waterVat.geo,4,zonebundle_43.smb,3,3
+24645479,Office Poster 02,office_poster_02.geo,4,zonebundle_53.smb,4,4
+32B59C8F,Rubble 02,rubble_02.geo,4,zonebundle_74.smb,12,12
+342F34DE,Sewerlamp 01,sewerlamp_01.geo,4,zonebundle_27.smb,2,2
+45D92B9A,Wolvark Buoy 01,wolvark_buoy_01.geo,4,zonebundle_43.smb,3,3
+47313EDA,Bigcrane 01,bigcrane_01.geo,4,zonebundle_43.smb,3,3
+4D923152,Sign Sekto 03,sign_sekto_03.geo,4,zonebundle_53.smb,4,4
+57BCECA8,Panel 02,panel_02.geo,4,zonebundle_53.smb,4,4
+7DE03253,Sign Location 4,sign_location_4.geo,4,zonebundle_66.smb,8,8
+81E50FB5,Panel 04,panel_04.geo,4,zonebundle_53.smb,4,4
+82F49207,WaterVat,waterVat.geo,4,zonebundle_53.smb,4,4
+9410DBF4,AmmoCrate Stingbee 10,ammoCrate_stingbee_10.geo,4,zonebundle_20.smb,2;3,2;3
+95742559,Floodlights Ceiling,floodlights_ceiling.geo,4,zonebundle_66.smb,8,8
+9613E15A,Column Base 01,column_base_01.geo,4,zonebundle_74.smb,12,12
+9BF077FE,Display Case 03,display_case_03.geo,4,zonebundle_74.smb,12,12
+AA61CBB7,Panel 00,panel_00.geo,4,zonebundle_66.smb,8,8
+B764FB0F,Panel 07,panel_07.geo,4,zonebundle_66.smb,8,8
+BD095249,AmmoCrate Skunk 10,ammoCrate_skunk_10.geo,4,zonebundle_20.smb,2;3,2;3
+BE37DB36,Sign Location 2,sign_location_2.geo,4,zonebundle_20.smb,2;3,2;3
+C5AB375B,Dead Native 01,dead_native_01.geo,4,zonebundle_60.smb,6,6
+D6DF0B85,AmmoCrate Boombat 10,ammoCrate_boombat_10.geo,4,zonebundle_20.smb,2;3,2;3
+F1EE6CB9,Sewerlamp 01,sewerlamp_01.geo,4,zonebundle_54.smb,5,5
+F7F08E7C,Monitor 02,monitor_02.geo,4,zonebundle_53.smb,4,4
+0BE3B410,De Dam PuzzleLight Blue,de_dam_puzzleLight_blue.geo,3,zonebundle_43.smb,3,3
+15E90E35,Maspa Gate 02,maspa_gate_02.geo,3,zonebundle_30.smb,3;4;6;8;11;12;16;17;18;20,3;4;6;8;11;12;16;17;18;20
+269CE171,Sekto SteefCoverBlock 00,sekto_steefCoverBlock_00.geo,3,zonebundle_74.smb,12,12
+31F089A1,Panel 04,panel_04.geo,3,zonebundle_66.smb,8,8
+38A3A998,Sign Location 1,sign_location_1.geo,3,zonebundle_43.smb,3,3
+3DB30A69,Office Vents 03,office_vents_03.geo,3,zonebundle_66.smb,8,8
+4A921EB7,Trash Long 01,trash_long_01.geo,3,zonebundle_21.smb,2;4;5;8;10;14;15,2;4;5;8;10;14;15
+50ACA45B,Display Case 02,display_case_02.geo,3,zonebundle_74.smb,12,12
+7C3828AA,Panel 06,panel_06.geo,3,zonebundle_66.smb,8,8
+86CEE2F7,Sign Sekto 02,sign_sekto_02.geo,3,zonebundle_53.smb,4,4
+9812EF76,Rubber Floormat 01,rubber_floormat_01.geo,3,zonebundle_66.smb,8,8
+A136E7CF,Glass Sekto Doors,glass_sekto_doors.geo,3,zonebundle_53.smb,4,4
+A99A708F,Sekto Column Cover,sekto_column_cover.geo,3,zonebundle_74.smb,12,12
+D16C07CF,De Dam PuzzleLight Red,de_dam_puzzleLight_red.geo,3,zonebundle_43.smb,3,3
+D332DF00,Lcd Screen 02,lcd_screen_02.geo,3,zonebundle_53.smb,4,4
+D638D6F5,Display Case 01,display_case_01.geo,3,zonebundle_74.smb,12,12
+DD85CF29,Monitor 02,monitor_02.geo,3,zonebundle_66.smb,8,8
+E4EC7F92,Rubble 04,rubble_04.geo,3,zonebundle_74.smb,12,12
+E7A96ABC,Panel 02,panel_02.geo,3,zonebundle_66.smb,8,8
+EF3887DC,Office Poster 03,office_poster_03.geo,3,zonebundle_53.smb,4,4
+F21B5DF2,Office Poster 01,office_poster_01.geo,3,zonebundle_66.smb,8,8
+F3ED166C,Sign Sekto 04,sign_sekto_04.geo,3,zonebundle_66.smb,8,8
+F447A65A,WarningLight Red,warningLight_red.geo,3,zonebundle_53.smb,4,4
+FB871DF0,Destructible Facility Light 01,destructible_facility_light_01.geo,3,zonebundle_43.smb,3,3
+FC70EC41,,,3,,?,?
+005A9059,Sign Sekto 01,sign_sekto_01.geo,2,zonebundle_53.smb,4,4
+118B1356,Death Fan 03,death_fan_03.geo,2,zonebundle_66.smb,8,8
+147FE077,Sign Sektosconcegreen,sign_sektosconcegreen.geo,2,zonebundle_53.smb,4,4
+1D460240,Sekto Room Door,sekto_room_door.geo,2,lm_level_06_tgl.smb;zonebundle_74.smb,*,12
+24E6B7A1,Burnt Rocks 02,burnt_rocks_02.geo,2,zonebundle_12.smb,2;3;4;6;8;12,2;3;4;6;8;12
+27DE5E40,WarningLight Red,warningLight_red.geo,2,zonebundle_43.smb,3,3
+296B325E,SektoGenerator 01,sektoGenerator_01.geo,2,zonebundle_74.smb,12,12
+2CBBFAD1,File Cabinet 01,file_cabinet_01.geo,2,zonebundle_66.smb,8,8
+2CF5B919,Panel 03,panel_03.geo,2,zonebundle_66.smb,8,8
+2F1E7D48,Lcd Screen 04,lcd_screen_04.geo,2,zonebundle_66.smb,8,8
+321B4DF0,Lcd Screen 03,lcd_screen_03.geo,2,zonebundle_66.smb,8,8
+3CAC5DD9,Monitor 03,monitor_03.geo,2,zonebundle_53.smb,4,4
+41BBBEC3,GloktigiGuard,gloktigiGuard.geo,2,npc_4.smb,*,*
+433F45F5,Dead Native 02,dead_native_02.geo,2,zonebundle_60.smb,6,6
+43EE4D70,AmmoCrate Fuzzle 10,ammoCrate_fuzzle_10.geo,2,zonebundle_53.smb,4,4
+4425910F,File Cabinet 02,file_cabinet_02.geo,2,zonebundle_53.smb,4,4
+44B1E660,Monitor 05,monitor_05.geo,2,zonebundle_74.smb,12,12
+48DFA0F3,Flag Dam 01,flag_dam_01.geo,2,zonebundle_53.smb,4,4
+509701EA,Sign Sekto 04,sign_sekto_04.geo,2,zonebundle_53.smb,4,4
+5B0C1F95,WolvarkSloghandler,wolvarkSloghandler.geo,2,npc_20.smb,*,*
+5B6C4530,Sign Sekto 02,sign_sekto_02.geo,2,zonebundle_71.smb,10,10
+68DC2DB2,AmmoCrate Skunk 10,ammoCrate_skunk_10.geo,2,zonebundle_12.smb,2;3;4;6;8;12,2;3;4;6;8;12
+6DF1A686,BigRedButton,BigRedButton.geo,2,zonebundle_43.smb,3,3
+701F03B2,WolvarkSniper,wolvarkSniper.geo,2,npc_21.smb,*,*
+748F2F5C,Office Poster 02,office_poster_02.geo,2,zonebundle_66.smb,8,8
+7C766B62,File Cabinet 04,file_cabinet_04.geo,2,zonebundle_66.smb,8,8
+85263F9B,Desk 02,desk_02.geo,2,zonebundle_66.smb,8,8
+86F54746,Display Case 04,display_case_04.geo,2,zonebundle_74.smb,12,12
+90309695,Sign Sekto 03,sign_sekto_03.geo,2,zonebundle_71.smb,10,10
+927C7212,File Cabinet 04,file_cabinet_04.geo,2,zonebundle_53.smb,4,4
+97A91005,Sign Sektosconcered,sign_sektosconcered.geo,2,zonebundle_32.smb,3;4;7;8;10,3;4;7;8;10
+9DDE6FBF,Ball Turret Wall,ball_turret_wall.geo,2,zonebundle_66.smb,8,8
+A2F026D7,Office Poster 01,office_poster_01.geo,2,zonebundle_53.smb,4,4
+A687F92A,BigRedButton,BigRedButton.geo,2,zonebundle_29.smb,3;4;6;7;8;9,3;4;6;7;8;9
+A7137107,TurretSocket,turretSocket.geo,2,zonebundle_66.smb,8,8
+ABB9D14E,Sign Location 2,sign_location_2.geo,2,zonebundle_60.smb,6,6
+B421EE21,Rubble 01,rubble_01.geo,2,zonebundle_69.smb,10;11;12,10;11;12
+BBD832C8,RocketShip,rocketShip.geo,2,zonebundle_43.smb,3,3
+BE6C058B,Sign Sektosconcegreen,sign_sektosconcegreen.geo,2,zonebundle_66.smb,8,8
+BFD3FCF9,Office Poster 03,office_poster_03.geo,2,zonebundle_66.smb,8,8
+C2841B25,Sign Sektosconcepurple,sign_sektosconcepurple.geo,2,zonebundle_66.smb,8,8
+C9855855,Water Tank 01,water_tank_01.geo,2,zonebundle_53.smb,4,4
+CBE875B2,Rubble 01,rubble_01.geo,2,zonebundle_60.smb,6,6
+D489D1F3,Sekto Charge Lights,sekto_charge_lights.geo,2,zonebundle_74.smb,12,12
+DDF8379E,Sign Sekto 01,sign_sekto_01.geo,2,zonebundle_71.smb,10,10
+E36CF4FB,DeathFan Damager,deathFan_damager.geo,2,zonebundle_66.smb,8,8
+F4BE493B,Warning Light 02,warning_light_02.geo,2,zonebundle_66.smb,8,8
+FBA4F80B,Office Vents 03,office_vents_03.geo,2,zonebundle_53.smb,4,4
+FE0F493C,Barrel Explosive,barrel_explosive.geo,2,zonebundle_53.smb,4,4
+0B1CB095,Cargo Hanger Ship 01,cargo_hanger_ship_01.geo,1,zonebundle_43.smb,3,3
+0C04B2FE,Gloktigi,gloktigi.geo,1,npc_5.smb,*,*
+0F66BB0D,Turbine 01,turbine_01.geo,1,zonebundle_53.smb,4,4
+11A19F5F,Death Fan 02,death_fan_02.geo,1,zonebundle_43.smb,3,3
+186E0CA5,Lcd Screen 03,lcd_screen_03.geo,1,zonebundle_53.smb,4,4
+1A966DF6,Water Tank 01,water_tank_01.geo,1,zonebundle_27.smb,2,2
+25408D3C,Cargo Container 02,cargo_container_02.geo,1,zonebundle_66.smb,8,8
+260A6DFB,Roof Sekto 01,roof_sekto_01.geo,1,zonebundle_74.smb,12,12
+32C965B0,Sekto Arena Door,sekto_arena_door.geo,1,zonebundle_74.smb,12,12
+341FD15C,Trash Corner 01,trash_corner_01.geo,1,zonebundle_27.smb,2,2
+3545032C,MaSpaFloorRoom3,maSpaFloorRoom3.geo,1,zonebundle_66.smb,8,8
+36561AA3,Wolvark Lift,wolvark_lift.geo,1,zonebundle_62.smb,7,7
+3F4D586E,AmmoCrate Armadillo 10,ammoCrate_armadillo_10.geo,1,zonebundle_53.smb,4,4
+418D4391,Dam Door 02,dam_door_02.geo,1,zonebundle_77.smb,16;18,16;18
+46148D3F,Monitor 06,monitor_06.geo,1,zonebundle_66.smb,8,8
+54734A35,AmmoCrate Armadillo 10,ammoCrate_armadillo_10.geo,1,zonebundle_66.smb,8,8
+55A6ADAE,Lcd Screen 01,lcd_screen_01.geo,1,zonebundle_53.smb,4,4
+56C3C1AE,CargoContainer Broken 01,cargoContainer_broken_01.geo,1,zonebundle_43.smb,3,3
+5D8C6DBD,Cin Sekto Roof,cin_sekto_roof.geo,1,zonebundle_74.smb,12,12
+5EF44761,WaterVat,waterVat.geo,1,zonebundle_66.smb,8,8
+613D1812,Panel 01,panel_01.geo,1,zonebundle_66.smb,8,8
+61735BDA,File Cabinet 03,file_cabinet_03.geo,1,zonebundle_66.smb,8,8
+6688853F,Maspa Gate 01,maspa_gate_01.geo,1,zonebundle_53.smb,4,4
+6736FEEC,Falling Pipe 01,falling_pipe_01.geo,1,zonebundle_66.smb,8,8
+75CAAEE2,,,1,,?,?
+7B7F8275,Sign Sekto 02,sign_sekto_02.geo,1,zonebundle_43.smb,3,3
+7FD3ECFB,Lcd Screen 01,lcd_screen_01.geo,1,zonebundle_66.smb,8,8
+87F3EFC5,,,1,,?,?
+8AD517D3,Panel 07,panel_07.geo,1,zonebundle_74.smb,12,12
+8D35A62D,Sign Sekto 04,sign_sekto_04.geo,1,zonebundle_71.smb,10,10
+A32F83DF,AmmoCrate Fuzzle 10,ammoCrate_fuzzle_10.geo,1,zonebundle_66.smb,8,8
+A3D4FF92,Cargo Container 01,cargo_container_01.geo,1,zonebundle_66.smb,8,8
+A5B6052B,ForkLiftRaised,forkLiftRaised.geo,1,zonebundle_53.smb,4,4
+A67B3213,Interior Sekto Room,interior_sekto_room.geo,1,zonebundle_74.smb,12,12
+A6F2F089,Sign Location 3,sign_location_3.geo,1,zonebundle_53.smb,4,4
+A7A4F53C,AmmoCrate Boombat 10,ammoCrate_boombat_10.geo,1,zonebundle_53.smb,4,4
+AA2F887F,File Cabinet 02,file_cabinet_02.geo,1,zonebundle_66.smb,8,8
+AD266168,Sign Sekto 04,sign_sekto_04.geo,1,zonebundle_43.smb,3,3
+B3582927,Snow Pine 01,snow_pine_01.geo,1,zonebundle_5.smb,1,1
+B5E29FC1,Rf Barrel,rf_barrel.geo,1,zonebundle_66.smb,8,8
+BB23DC7B,Baseboard Doorway 01,baseboard_doorway_01.geo,1,zonebundle_66.smb,8,8
+C345D912,Wolvark Elevator,wolvark_elevator.geo,1,zonebundle_43.smb,3,3
+C4E0E584,,,1,,?,?
+C6121BFD,AmmoCrate Fuzzle 10,ammoCrate_fuzzle_10.geo,1,zonebundle_74.smb,12,12
+C719313F,Dam Door 01,dam_door_01.geo,1,zonebundle_66.smb,8,8
+CB4F232E,AmmoCrate Chipmonk 10,ammoCrate_chipmonk_10.geo,1,zonebundle_66.smb,8,8
+CCFAC7CF,SektoDesk 01,sektoDesk_01.geo,1,zonebundle_74.smb,12,12
+CFF469DC,Elevator Wolvark 01,elevator_wolvark_01.geo,1,zonebundle_43.smb,3,3
+DCE9A005,Cin Sekto Machine,cin_Sekto_Machine.geo,1,zonebundle_74.smb,12,12
+E01CF791,Maspa Gate 02,maspa_gate_02.geo,1,zonebundle_77.smb,16;18,16;18
+EABAE44C,ForkLiftRaised,forkLiftRaised.geo,1,zonebundle_43.smb,3,3
+EB42D092,Maspa Gate 02,maspa_gate_02.geo,1,zonebundle_43.smb,3,3
+EE1C5E99,Cargo Container 03,cargo_container_03.geo,1,zonebundle_66.smb,8,8
+EFE57A09,Sign Sektosconcegreen,sign_sektosconcegreen.geo,1,zonebundle_43.smb,3,3
+F8CA26E7,Flag Dam 01,flag_dam_01.geo,1,zonebundle_66.smb,8,8
+F9479E55,Lcd Screen 02,lcd_screen_02.geo,1,zonebundle_66.smb,8,8
+FDEBF0DB,Sign Sekto 01,sign_sekto_01.geo,1,zonebundle_43.smb,3,3

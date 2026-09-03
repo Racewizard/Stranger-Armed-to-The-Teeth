@@ -1,0 +1,8 @@
+Hash,Name,HP,Faction,Spawns,Slots
+65DB9849,outlaw_cutter_chippunk_tut,45,hostile,13,"0, 1, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19"
+DDD3C8B8,outlaw_cutter_geisha,45,hostile,2,"4, 5"
+2BEC04A1,outlaws_shooter_meleeonly,60,hostile,2,"3, 6"
+5CEE67FD,clakker_male,100000,friendly,1,7
+072A64D6,outlaw_cutter,45,hostile,1,2
+FFFC00CB,outlaw_shooter,60,hostile,1,20
+E2B247BD,outlawboss_blisterz,100000,friendly,1,9

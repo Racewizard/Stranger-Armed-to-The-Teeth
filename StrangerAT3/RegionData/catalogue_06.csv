@@ -1,0 +1,15 @@
+Hash,Name,HP,Faction,Spawns,Slots
+FDBD2F9C,wolvarkshooter,175,hostile,50,"0, 1, 2, 5, 6, 7, 8, 9, 11, 18, 20, 21, 22, 23, 24, 25, 26, 27, 29, 31, 32, 35, 36, 38, 39, 41, 44, 45, 46, 47, 48, 53, 54, 55, 56, 57, 58, 62, 64, 65, 66, 67, 68, 69, 80, 81, 128, 130, 132, 134"
+84AB1672,wolvarkmachinegunner,125,hostile,39,"17, 19, 28, 33, 34, 37, 40, 42, 43, 49, 50, 51, 52, 59, 60, 61, 84, 85, 86, 87, 93, 94, 96, 97, 99, 100, 101, 102, 103, 105, 108, 109, 110, 111, 121, 127, 129, 131, 133"
+B03890D0,wolvarksniper (variant),45,hostile,18,"14, 15, 70, 71, 79, 83, 112, 113, 114, 115, 116, 117, 118, 119, 120, 124, 125, 126"
+B42B865B,grubbsoldier,100,hostile,17,"72, 73, 74, 75, 76, 77, 141, 142, 143, 144, 146, 147, 148, 149, 150, 151, 152"
+F0315D54,wolvarkgrenadier,100,hostile,15,"3, 4, 10, 30, 63, 88, 89, 90, 91, 95, 104, 106, 135, 136, 137"
+151F4B4E,shocktank,750,hostile,5,"12, 13, 82, 98, 107"
+E33BE973,wolvarkgunner,175,hostile,3,"138, 139, 140"
+300596C6,armoredgloktigi,2000,hostile,2,"153, 154"
+20F622E5,wolvarksloghandler,125,hostile,2,"16, 92"
+31D1280E,wolvarksniper,45,hostile,2,"122, 123"
+879B644E,(unidentified),150,hostile,1,145
+450E9598,gloktigi,2000,hostile,1,78
+97C44232,sektoboss,300,hostile,1,156
+CAB666AF,sektosdeathray,5000,hostile,1,155

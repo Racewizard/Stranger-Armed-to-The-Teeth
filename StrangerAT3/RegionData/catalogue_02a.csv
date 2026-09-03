@@ -1,0 +1,10 @@
+Hash,Name,HP,Faction,Spawns,Slots
+0E997260,clakker_female,100000,friendly,13,"12, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 38, 40"
+FFFC00CB,outlaw_shooter,60,hostile,9,"2, 8, 9, 10, 14, 15, 16, 17, 18"
+5CEE67FD,clakker_male,100000,friendly,7,"11, 19, 20, 21, 22, 23, 30"
+B183723A,unidentified,100000,friendly,6,"24, 25, 26, 39, 41, 42"
+DDD3C8B8,outlaw_cutter_geisha,45,hostile,4,"3, 4, 5, 6"
+C9F81B7E,dcasteraider,250,hostile,1,7
+072A64D6,outlaw_cutter,45,hostile,1,1
+FF0100ED,outlaw_mortar,125,hostile,1,13
+FF32E523,outlaw_nailer,150,hostile,1,0

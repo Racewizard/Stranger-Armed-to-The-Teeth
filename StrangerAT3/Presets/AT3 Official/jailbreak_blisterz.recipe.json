@@ -1,0 +1,190 @@
+{
+  "Name": "jailbreak_blisterz",
+  "Region": "01",
+  "Description": "Take Boilz Booty, give him a ranged weapon node, clone his boss job with its own capture flags, and hang Filthy Hands Floyd's rifle off it. Every record is a clone of a vanilla one - nothing of the retail game ships with this.",
+  "Records": [
+    {
+      "New": "FFFFDB52",
+      "CloneOf": "155A0299",
+      "Bundle": "region_01/lm_level_01/lm_level_01_tgl.smb",
+      "Kind": 7,
+      "Flags": 0,
+      "SrcLen": 757,
+      "Lens": [
+        837,
+        0,
+        0
+      ],
+      "Patch": [
+        [
+          517,
+          "bf1721"
+        ],
+        [
+          557,
+          "c8"
+        ],
+        [
+          565,
+          "16"
+        ],
+        [
+          597,
+          "0af3ffff"
+        ],
+        [
+          604,
+          "c843"
+        ],
+        [
+          608,
+          "48"
+        ],
+        [
+          724,
+          "01"
+        ],
+        [
+          728,
+          "14"
+        ],
+        [
+          730,
+          "0000776561706e6f64655f72616e6765645f77706e3110893c1e0000803f00000000000000000000000000000000000080bf000000000000803f00000000000040bf8fc2f53ccdcc4cbd0000803f0000964200004843000a0000000200000004000000b96842e40000803f"
+        ]
+      ]
+    },
+    {
+      "New": "FFFFF30A",
+      "CloneOf": "5C65959D",
+      "Bundle": "region_01/lm_level_01/lm_level_01_tgl.smb",
+      "Kind": 7,
+      "Flags": 0,
+      "SrcLen": 420,
+      "Lens": [
+        420,
+        0,
+        0
+      ],
+      "Patch": [
+        [
+          91,
+          "70"
+        ],
+        [
+          174,
+          "03"
+        ],
+        [
+          321,
+          "3e"
+        ],
+        [
+          325,
+          "803f"
+        ]
+      ]
+    },
+    {
+      "New": "E44268B9",
+      "CloneOf": "B03EBB79",
+      "Bundle": "region_01/lm_level_01/lm_level_01_tgl.smb",
+      "Kind": 7,
+      "Flags": 0,
+      "SrcLen": 69,
+      "Lens": [
+        69,
+        0,
+        0
+      ],
+      "Patch": []
+    },
+    {
+      "New": "015D7FB0",
+      "CloneOf": "87C90D1E",
+      "Bundle": "region_01/lm_level_01/npc_19.smb",
+      "Kind": 5,
+      "Flags": 0,
+      "SrcLen": 3371,
+      "Lens": [
+        2155,
+        0,
+        1216
+      ],
+      "Patch": [
+        [
+          86,
+          "32"
+        ],
+        [
+          177,
+          "32"
+        ],
+        [
+          460,
+          "32"
+        ],
+        [
+          1350,
+          "4a61"
+        ],
+        [
+          1354,
+          "62"
+        ],
+        [
+          1480,
+          "4a61"
+        ],
+        [
+          1484,
+          "62"
+        ],
+        [
+          1639,
+          "4a61"
+        ],
+        [
+          1643,
+          "62"
+        ],
+        [
+          2939,
+          "4a61"
+        ],
+        [
+          2943,
+          "62"
+        ],
+        [
+          2994,
+          "4a61"
+        ],
+        [
+          2998,
+          "62"
+        ],
+        [
+          3077,
+          "4a61"
+        ],
+        [
+          3081,
+          "62"
+        ]
+      ]
+    }
+  ],
+  "Copy": [
+    {
+      "Hash": "1E3C8910",
+      "From": "region_06/lm_level_06/zonebundle_74.smb",
+      "To": "region_01/lm_level_01/npc_23.smb"
+    },
+    {
+      "Hash": "E080E830",
+      "From": "region_01/lm_level_01/npc_10.smb",
+      "To": "region_01/lm_level_01/npc_23.smb"
+    }
+  ]
+}
