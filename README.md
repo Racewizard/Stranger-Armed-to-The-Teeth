@@ -1,4 +1,8 @@
-Man this github stuff is a huge pain in the butt I wish I could've just uploaded this thing to google drive or something.
+September 5th 2026 - v0.2.1 Release! This fixes a few QoL issues in the launcher's GUI, and more importantly, makes the map editor actually work! Yippee! Excited to see what people make with the tool.
+
+
+
+September 3rd 2026 - Man this github stuff is a huge pain in the butt I wish I could've just uploaded this thing to google drive or something.
 
 Alright look, the README in the files will tell you what to do to install the damn thing.
 
