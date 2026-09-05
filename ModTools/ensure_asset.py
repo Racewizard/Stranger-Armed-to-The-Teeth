@@ -380,9 +380,21 @@ def main():
         import place_props as PP
         from spawn_prop import lvl_path, u32, walk, pos_of
         cur = open(lvl_path(a.region), "rb").read()
-        bak = lvl_path(a.region) + ".bak"
-        if not _os_exists(bak):
-            print("no pristine level backup for region_%s" % a.region)
+        # The pristine copy is whichever backup the placement tools made first.
+        # place_props writes ".propsbak", apply_spawns ".spawnsbak"; older
+        # tooling left a bare ".bak". Nothing writes ".bak" any more, so looking
+        # only for that silently found a stale leftover on a developer install
+        # and found NOTHING on a clean one - placements then went in with their
+        # geometry never imported, giving invisible props with collision.
+        bak = None
+        for suffix in (".propsbak", ".at3vanilla", ".spawnsbak", ".bak"):
+            cand = lvl_path(a.region) + suffix
+            if _os_exists(cand):
+                bak = cand
+                break
+        if bak is None:
+            print("no pristine level backup for region_%s "
+                  "(looked for .propsbak/.at3vanilla/.spawnsbak/.bak)" % a.region)
             return 1
         van = open(bak, "rb").read()
         base = set()
