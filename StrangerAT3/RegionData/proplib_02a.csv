@@ -1,0 +1,113 @@
+Key,Name,Asset,Count,Bundle,Zones,BakedZones
+6CB89E1D,Canopy Tree 01,canopy_tree_01.geo,868,zonebundle_5.smb,2;4;5;6;7;9;10;14;17;18;20,2;4;5;6;7;9;10;14;17;18;20
+E726DD0E,Lampshade,lampshade.geo,68,zonebundle_17.smb,3;4;6;7;8;10;11;12;13;14,3;4;6;7;8;10;11;12;13;14
+81670E55,Palette 01,palette_01.geo,46,zonebundle_40.smb,4;7;10;11;12,4;7;10;11;12
+CF14F27B,Cardboard Box 01,cardboard_box_01.geo,20,zonebundle_17.smb,3;4;6;7;8;10;11;12;13;14,3;4;6;7;8;10;11;12;13;14
+EB950E17,WindowGunner,WindowGunner.geo,20,zonebundle_38.smb,4;7;8;20,4;7;8;20
+6D98753B,Nonjumpable Crate 01,nonjumpable_crate_01.geo,19,zonebundle_71.smb,10;11,10;11
+1C41269B,Hot Coals 01,hot_coals_01.geo,17,zonebundle_70.smb,10;11;14,10;11;14
+2B3EEB21,Cargo Net 01,cargo_net_01.geo,17,zonebundle_69.smb,10;11;12,10;11;12
+86BEE73F,Storage Cabinet 01,storage_cabinet_01.geo,16,zonebundle_71.smb,10;11,10;11
+B8679CDB,Trashcan 01,trashcan_01.geo,14,zonebundle_38.smb,4;7;8;20,4;7;8;20
+13F47DC7,TownsfolkFemale,townsfolkFemale.geo,13,npc_14.smb,*,*
+AE44673D,Barrel Explosive,barrel_explosive.geo,13,zonebundle_40.smb,4;7;10;11;12,4;7;10;11;12
+94CA1A45,Light Round Orange,light_round_orange.geo,12,zonebundle_25.smb,3;7;8,3;7;8
+C22A64CA,Destructible Crate Apples,destructible_crate_apples.geo,12,zonebundle_44.smb,4;10;11;12;13;14,4;10;11;12;13;14
+053D7B1F,Kitchenchair 01,kitchenchair_01.geo,11,zonebundle_27.smb,3;8;11,3;8;11
+02367778,Town Door 02,town_door_02.geo,10,zonebundle_25.smb,3;7;8,3;7;8
+05FC9BA6,,,9,,?,?
+429AC7BF,Destructible Boards 02,destructible_boards_02.geo,9,zonebundle_40.smb,4;7;10;11;12,4;7;10;11;12
+498080D5,Cardboard Box 02,cardboard_box_02.geo,9,zonebundle_17.smb,3;4;6;7;8;10;11;12;13;14,3;4;6;7;8;10;11;12;13;14
+931E1A8F,Barrel Explosive Castaraider,barrel_explosive_castaraider.geo,9,zonebundle_74.smb,10,10
+D55DB9EB,Wall Outlaw 02,wall_outlaw_02.geo,9,zonebundle_44.smb,4;10;11;12;13;14,4;10;11;12;13;14
+D9D56033,Destructible Barrel 01,destructible_barrel_01.geo,9,zonebundle_17.smb,3;4;6;7;8;10;11;12;13;14,3;4;6;7;8;10;11;12;13;14
+1492B4E4,Destructible Mailbox,destructible_mailbox.geo,8,zonebundle_57.smb,7;8,7;8
+29CCDF0D,Door Backing,door_backing.geo,8,zonebundle_57.smb,7;8,7;8
+53A1505B,Destructible Crate,destructible_crate.geo,8,zonebundle_30.smb,4;5;6,4;5;6
+9115682A,Insulator 01,insulator_01.geo,8,zonebundle_50.smb,5,5
+53C9CB45,Wall Outlaw 01,wall_outlaw_01.geo,7,zonebundle_70.smb,10;11;14,10;11;14
+71C167D3,Townsfolk,townsfolk.geo,7,npc_16.smb,*,*
+D26FA6F4,Minebox 02,minebox_02.geo,7,zonebundle_71.smb,10;11,10;11
+68641644,De Region03 Outlaw01 Small Shack,de_region03_outlaw01_small_shack.geo,6,zonebundle_48.smb,4,4
+68D6D48B,Warning Woodenbarrier,warning_woodenbarrier.geo,6,zonebundle_30.smb,4;5;6,4;5;6
+A1BB1A5A,TownsfolkKid,townsfolkKid.geo,6,npc_15.smb,*,*
+F4F41958,Sewerlamp Hanging 01,sewerlamp_hanging_01.geo,6,zonebundle_50.smb,5,5
+14AC5272,Grass Thin,grass_thin.geo,5,zonebundle_8.smb,2;4;6;8;9,2;4;6;8;9
+1E016A4E,Wall Outlaw 03,wall_outlaw_03.geo,5,zonebundle_44.smb,4;10;11;12;13;14,4;10;11;12;13;14
+4558656D,De Barrel Explosive Npc,de_barrel_explosive_npc.geo,5,zonebundle_48.smb,4,4
+665317D0,Power Pole With Orange Lights 01,power_pole_with_orange_lights_01.geo,5,zonebundle_53.smb,6;20,6;20
+704BC678,Dumpster,dumpster.geo,5,zonebundle_57.smb,7;8,7;8
+89C6141A,Destructible Boards 03,destructible_boards_03.geo,5,zonebundle_69.smb,10;11;12,10;11;12
+8A180DA4,Farm Diningtable 01,farm_diningtable_01.geo,5,zonebundle_25.smb,3;7;8,3;7;8
+C40EB511,Destructible Boards 01,destructible_boards_01.geo,5,zonebundle_40.smb,4;7;10;11;12,4;7;10;11;12
+C8875DBA,Spool 01,spool_01.geo,5,zonebundle_40.smb,4;7;10;11;12,4;7;10;11;12
+19337551,Minebox 03,minebox_03.geo,4,zonebundle_71.smb,10;11,10;11
+20B2FAEF,,,4,,?,?
+275890D3,Windowpane Corner 01,windowpane_corner_01.geo,4,zonebundle_80.smb,12,12
+3CB79991,Opple Crate 01,opple_crate_01.geo,4,lm_level_02a_tgl.smb;zonebundle_63.smb,*,7
+4A89DEC8,Jumpable Metalcrate 01,jumpable_metalcrate_01.geo,4,zonebundle_63.smb,7,7
+4E132F14,Spool 02,spool_02.geo,4,zonebundle_40.smb,4;7;10;11;12,4;7;10;11;12
+5FFC845D,Destructible Picketfence,destructible_picketfence.geo,4,zonebundle_63.smb,7,7
+93ACA16D,Beam 01,beam_01.geo,4,zonebundle_44.smb,4;10;11;12;13;14,4;10;11;12;13;14
+C6154192,Locker 03,locker_03.geo,4,zonebundle_71.smb,10;11,10;11
+DB10712A,Locker 04,locker_04.geo,4,zonebundle_71.smb,10;11,10;11
+03567575,Big Tan Tree,Big_Tan_Tree.geo,3,zonebundle_53.smb,6;20,6;20
+11C10284,Windowpane 6x4 01,windowpane_6x4_01.geo,3,zonebundle_36.smb,4;7;8;11;12;16,4;7;8;11;12;16
+2D46A960,Clothes Hanging 03,clothes_hanging_03.geo,3,zonebundle_63.smb,7,7
+2D6A82A9,Spool Stack 02,spool_stack_02.geo,3,zonebundle_71.smb,10;11,10;11
+304399D8,Clothes Hanging 04,clothes_hanging_04.geo,3,zonebundle_63.smb,7,7
+4007687F,Roof Outlawinterior 02,roof_outlawinterior_02.geo,3,zonebundle_74.smb,10,10
+4E302E0E,Dead Bush 01,dead_bush_01.geo,3,zonebundle_55.smb,7;8;15,7;8;15
+51E6BB89,De Explosive VisibleEffectOnly,de_explosive_VisibleEffectOnly.geo,3,zonebundle_79.smb,12;13,12;13
+608E086B,Clothes Hanging 01,clothes_hanging_01.geo,3,zonebundle_63.smb,7,7
+65B54BBE,Cabinets Low 02,cabinets_low_02.geo,3,zonebundle_25.smb,3;7;8,3;7;8
+8234415D,Rug 01,rug_01.geo,3,zonebundle_25.smb,3;7;8,3;7;8
+93F4051A,Green Bush 01,green_bush_01.geo,3,zonebundle_10.smb,2;6;9,2;6;9
+96D8D021,Locker 06,locker_06.geo,3,zonebundle_78.smb,11,11
+BCAE33EF,Destructible Crate03,destructible_crate03.geo,3,zonebundle_78.smb,11,11
+DF5F72C6,Red Daisy 01,Red_daisy_01.geo,3,zonebundle_10.smb,2;6;9,2;6;9
+E897DE2E,Towels Beige 01,towels_beige_01.geo,3,zonebundle_78.smb,11,11
+4CA81F80,Mattress,mattress.geo,2,zonebundle_63.smb,7,7
+5CB8A1C6,Roof Outlawinterior,roof_outlawinterior.geo,2,zonebundle_74.smb,10,10
+8BDDE099,Locker 01,locker_01.geo,2,zonebundle_78.smb,11,11
+B3ECA8A3,Cabinets Low 04,cabinets_low_04.geo,2,zonebundle_25.smb,3;7;8,3;7;8
+B5FAA29C,Destructible Crate Drygoods,destructible_crate_drygoods.geo,2,zonebundle_71.smb,10;11,10;11
+BBF308EB,Burnt Wood 01,burnt_wood_01.geo,2,zonebundle_48.smb,4,4
+D0697CAA,De Transition Beam Break,de_transition_beam_break.geo,2,zonebundle_70.smb,10;11;14,10;11;14
+D53D9466,Generator Small 01,generator_small_01.geo,2,zonebundle_80.smb,12,12
+E61A7AC5,Clothes Hanging 02,clothes_hanging_02.geo,2,zonebundle_63.smb,7,7
+0D499237,Locker 02,locker_02.geo,1,zonebundle_78.smb,11,11
+0F5ED774,Power Pole Facility 01,power_pole_facility_01.geo,1,zonebundle_48.smb,4,4
+104CA28F,Locker 05,locker_05.geo,1,zonebundle_78.smb,11,11
+10A4ED63,Newspaper 01,newspaper_01.geo,1,zonebundle_65.smb,8,8
+22061D11,False Interior Bounty 01,false_interior_bounty_01.geo,1,zonebundle_63.smb,7,7
+2A824444,Floor Outlawinterior 01,floor_outlawinterior_01.geo,1,zonebundle_82.smb,14,14
+2B3376B2,De Transition Beam Break,de_transition_beam_break.geo,1,zonebundle_74.smb,10,10
+33DC4AF0,,,1,,?,?
+36673883,Toilet Paper 01,toilet_paper_01.geo,1,zonebundle_65.smb,8,8
+36FE4ADF,Red Grass 01,red_grass_01.geo,1,zonebundle_66.smb,9,9
+37AEA6E2,Power Line Wallmount 01,power_line_wallmount_01.geo,1,zonebundle_54.smb,6,6
+4C3BA06E,White Airconditioner 01,white_airconditioner_01.geo,1,zonebundle_65.smb,8,8
+4DED008D,White Stove 01,white_stove_01.geo,1,zonebundle_65.smb,8,8
+4E2E8A62,Light Round Blue,light_round_blue.geo,1,zonebundle_65.smb,8,8
+54FBD45A,Minebox 01,minebox_01.geo,1,zonebundle_74.smb,10,10
+58BE6F55,Pan 01,pan_01.geo,1,zonebundle_65.smb,8,8
+591C783E,White Woodcabinet Nodoors 03,white_woodcabinet_nodoors_03.geo,1,zonebundle_65.smb,8,8
+59835259,De Transiton02 Townsfolk Wall,de_transiton02_townsfolk_wall.geo,1,zonebundle_83.smb,15,15
+76E4183F,Town Maingate 01,town_maingate_01.geo,1,zonebundle_63.smb,7,7
+7B5AE8A7,Transition Beam Break,transition_beam_break.geo,1,zonebundle_79.smb,12;13,12;13
+7D70849F,Potbellystove 01,potbellystove_01.geo,1,zonebundle_65.smb,8,8
+814E4C06,Bed Low 01,bed_low_01.geo,1,zonebundle_65.smb,8,8
+825934B7,False Interior Doc 01,false_interior_doc_01.geo,1,zonebundle_29.smb,3,3
+9156982B,,,1,,?,?
+946E7CE4,Junk Reefer 01,junk_reefer_01.geo,1,zonebundle_65.smb,8,8
+A5086BBF,No Render LargeKnockback,no_render_largeKnockback.geo,1,zonebundle_48.smb,4,4
+A9A25B0B,Destructible Keepoutfence 02,destructible_keepoutfence_02.geo,1,zonebundle_53.smb,6;20,6;20
+ABFEF007,Spool Stack 01,spool_stack_01.geo,1,zonebundle_78.smb,11,11
+AEE9981B,Cabinets Low 03,cabinets_low_03.geo,1,zonebundle_29.smb,3,3
+AFEE045B,De Transition02 Wall,de_transition02_wall.geo,1,zonebundle_48.smb,4,4
+C123708D,Destructible Woodenfence,destructible_woodenfence.geo,1,zonebundle_65.smb,8,8
+C6883621,,,1,,?,?
+CF27AB3D,White Refrigerator 01,white_refrigerator_01.geo,1,zonebundle_65.smb,8,8
+DFA3B50E,,,1,,?,?
+EB7AD39B,Junk Debris 02,junk_debris_02.geo,1,zonebundle_65.smb,8,8

@@ -1,0 +1,43 @@
+Group,Field,Label,Kind,Offset,Vanilla
+Sky,colorBase,Sky colour - horizon,c,132,"0.3, 0.3, 1.0, 1.0"
+Sky,colorTop,Sky colour - zenith,c,148,"0.0, 0.0, 0.7, 1.0"
+Sky,colorSun,Sun colour,c,164,"1.0, 0.75, 0.1, 1.0"
+Sky,colorBaseCloud,Cloud colour - base,c,180,"1.0, 1.0, 1.0, 1.0"
+Sky,colorSunCloud,Cloud colour - sunlit,c,196,"1.0, 0.7, 0.3, 1.0"
+Sky,colorInvSunCloud,Cloud colour - away from sun,c,212,"0.8, 0.5, 0.7, 1.0"
+Sky,sunBlobIntensity,Sun glow intensity,f,296,0.2
+Sky,sunSpikeIntensity,Sun spike intensity,f,332,0.1
+Sky,skyStretch,Sky stretch,f,64,4.0
+Sky,overrideFogColor,Sky fog override colour,c,232,"0.7, 0.7, 1.0, 1.0"
+Clouds,cloudTiling1,Cloud tiling 1,f,84,1.2
+Clouds,uvSpeed1,"Cloud speed 1 (u, v)",v2,108,"0.0014, 0.001"
+Clouds,cloudParallax1,Cloud parallax 1,f,76,0.001
+Clouds,cloudTiling2,Cloud tiling 2,f,88,3.0
+Clouds,uvSpeed2,"Cloud speed 2 (u, v)",v2,116,"0.0071, 0.005"
+Clouds,cloudParallax2,Cloud parallax 2,f,80,0.004
+Clouds,cloudTiling3,Cloud tiling 3,f,92,0.7
+Clouds,uvSpeed3,"Cloud speed 3 (u, v)",v2,124,"0.0003, 0.0005"
+Water & Surface,waterMurkStrength,Water murk strength,f,356,2.0
+Water & Surface,waterMurkMinStrength,Water murk minimum,f,360,0.0
+Water & Surface,waterMurkColor,Water murk colour,c,364,"0.0, 0.0, 0.0, 1.0"
+Water & Surface,surfaceSparkleNear,Sparkle near distance,f,380,10.0
+Water & Surface,surfaceSparkleFar,Sparkle far distance,f,384,10.0
+Water & Surface,surfaceSparkleRadius,Sparkle radius,f,388,3.0
+Water & Surface,surfaceSparkleDensity,Sparkle density,f,392,0.0
+Water & Surface,surfaceSparkleVerticalOffset,Sparkle vertical offset,f,396,0.0
+Water & Surface,surfaceSparkleColor,Sparkle colour,c,400,"1.0, 1.0, 1.0, 1.0"
+Lighting & Shadows,ambientShadow,Ambient shadow,f,-12,0.2
+Lighting & Shadows,selfShadow,Self shadow,f,-8,0.35
+Lighting & Shadows,cloudShadowStrength,Cloud shadow strength,f,8,0.3
+Lighting & Shadows,cloudShadowSpeed,Cloud shadow speed,f,16,0.01
+Lighting & Shadows,cloudShadowTiling,Cloud shadow tiling,f,20,0.5
+Lighting & Shadows,cloudShadowStartFade,Cloud shadow fade start,f,416,0.0
+Lighting & Shadows,cloudShadowEndFade,Cloud shadow fade end,f,420,80.0
+Lighting & Shadows,shadowMapStartFade,Shadow map fade start,f,424,20.0
+Lighting & Shadows,shadowMapEndFade,Shadow map fade end,f,428,35.0
+Lighting & Shadows,distantSingleLightViewColor,Distant light colour,c,28,"0.6, 0.6, 0.6, 1.0"
+Textures & Cubemaps (experimental),texName1,Skybox layer 1 texture,h,96,0x77792C51
+Textures & Cubemaps (experimental),texName2,Skybox layer 2 texture,h,100,0xF1ED5EFF
+Textures & Cubemaps (experimental),texName3,Skybox layer 3 texture,h,104,0xFC091BD3
+Textures & Cubemaps (experimental),cloudShadowName,Cloud shadow texture,h,0,0xCDBE0B18
+Textures & Cubemaps (experimental),reflectionMapName,Reflection cubemap,h,-80,0xBA8A6A41

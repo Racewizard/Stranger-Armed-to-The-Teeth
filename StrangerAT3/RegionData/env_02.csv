@@ -1,0 +1,35 @@
+Group,Area,SetIndex,Anchor,FogR,FogG,FogB,FogA,FogStart,FogEnd
+Region Default,(region default),0,208,0.547,0.304,0.4,1.0,80.0,750.0
+Opple Farm,farmAREA,1,3662,0.547,0.304,0.4,1.0,80.0,750.0
+Opple Farm,farmEntranceAREA,2,4315,0.547,0.304,0.4,1.0,80.0,750.0
+Opple Farm,oldFarmExitArea,3,5615,0.547,0.304,0.4,1.0,80.0,750.0
+Opple Farm,preFarm_navAREA,4,6267,0.547,0.304,0.4,1.0,80.0,750.0
+Town Dust Storm,preTownAREA,5,6915,0.875,0.635,0.31,1.0,75.0,180.0
+Town Dust Storm,town_02_1_Tag_area_1,6,10216,0.875,0.635,0.31,1.0,70.0,190.0
+Town Dust Storm,outlaw_02_2_Tunnel2_Tag_area_2_copy,19,40438,0.875,0.635,0.31,1.0,20.0,110.0
+Town Dust Storm,outlaw_02_2_Tunnel2_Tag_area_1,25,44388,0.875,0.635,0.31,1.0,75.0,190.0
+Sewers,sewer_area_2,11,22637,0.564,0.37,0.847,1.0,1.0,400.0
+Sewers,sewer_area_3,12,23283,0.564,0.37,0.847,1.0,1.0,400.0
+Sewers,sewer_area_4,13,23929,0.564,0.37,0.847,1.0,1.0,400.0
+Sewers,sewer_area_5,14,24575,0.564,0.37,0.847,1.0,1.0,400.0
+Sewers,sewer_area_6,15,25221,0.564,0.37,0.847,1.0,1.0,400.0
+Native Temple,enteringTemple,24,43721,0.547,0.304,0.4,1.0,80.0,750.0
+Native Temple,region_02_Area_02_Temple,28,46365,0.547,0.304,0.4,1.0,80.0,750.0
+Native Temple,templeInterior,30,47676,0.547,0.304,0.4,1.0,80.0,750.0
+Native Temple,templeLoad,31,48323,0.547,0.304,0.4,1.0,80.0,750.0
+Native Catacombs,preCatacombs,27,45704,0.287,0.211,0.189,1.0,0.0,150.0
+Native Catacombs,underTemple,32,48971,0.287,0.211,0.189,1.0,0.0,150.0
+Native Catacombs,|catacombs,33,49618,0.287,0.211,0.189,1.0,0.0,150.0
+Native Village,native_village_lt_area_01,7,14799,0.547,0.304,0.4,1.0,80.0,750.0
+Native Village,native_village_lt_area_02,8,15461,0.547,0.304,0.4,1.0,80.0,750.0
+Native Village,native_village_lt_area_03,9,16123,0.547,0.304,0.4,1.0,80.0,750.0
+Native Village,native_village_lt_area_04,10,16785,0.547,0.304,0.4,1.0,80.0,750.0
+Other,newtunnel_outlaw_02_2_Tag_area_1,16,38425,0.547,0.304,0.4,1.0,80.0,750.0
+Other,newtunnel_outlaw_02_2_Tag_area_2,17,39094,0.547,0.304,0.4,1.0,80.0,750.0
+Other,outlaw_02_2_Tunnel2_Tag_area_1_copy,18,39766,0.547,0.304,0.4,1.0,80.0,750.0
+Other,region_02_Area_02_nav_1,20,41098,0.547,0.304,0.4,1.0,80.0,750.0
+Other,region_02_Area_02_nav_2,21,41758,0.547,0.304,0.4,1.0,80.0,750.0
+Other,Tunnel_3_Tag_area_1,22,42414,0.547,0.304,0.4,1.0,80.0,750.0
+Other,Tunnel_3_Tag_area_2,23,43070,0.547,0.304,0.4,1.0,80.0,750.0
+Other,outlaw_02_2_Tunnel2_Tag_area_2,26,45055,0.547,0.304,0.4,1.0,80.0,750.0
+Other,region_02_area_02_nav_3,29,47025,0.547,0.304,0.4,1.0,80.0,750.0

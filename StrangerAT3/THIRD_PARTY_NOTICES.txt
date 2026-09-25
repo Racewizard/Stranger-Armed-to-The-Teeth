@@ -1,0 +1,52 @@
+Stranger: Armed to the Teeth (AT3) v0.3.0 - Third-Party Notices
+================================================================
+
+AT3 is a free tool by Racewizard. The third-party components below keep
+their own licenses.
+It is an unofficial fan project and is not affiliated with or endorsed by
+Oddworld Inhabitants, Inc. or Just Add Water (Developments), Ltd.
+Oddworld: Stranger's Wrath is (C) Oddworld Inhabitants, Inc.
+
+AT3 ships NO game data. Every record it creates is made on your own machine
+from your own copy of the game. Presets carry only the differences (byte
+patches) between a custom record and the game record it was cloned from.
+
+
+PYTHON (bundled runtime)
+------------------------
+Folder:   StrangerAT3\python\
+What:     The CPython 3.14 interpreter and standard library, used to run the
+          tools in ModTools\. It is private to AT3: it does not install
+          anything, does not touch the Windows registry or PATH, and does not
+          affect any other Python on your computer. Deleting AT3 removes it.
+Source:   Built from the official Python for Windows release from
+          https://www.python.org/ by StrangerAT3\build_runtime.py, laid out
+          like python.org's "embeddable package". Unused parts of the
+          standard library (Tk/Tcl, IDLE, the test suite, pip, venv, sqlite)
+          are left out; nothing is modified.
+License:  Python Software Foundation License Version 2.
+          The full license text is StrangerAT3\python\LICENSE.txt, which also
+          covers the libraries built into the Windows release:
+            - bzip2, libffi, OpenSSL, xz/liblzma, zlib, zstd, expat,
+              mpdecimal and HACL*
+            - Microsoft Visual C++ runtime (vcruntime140.dll,
+              vcruntime140_1.dll), distributed under Microsoft's terms for
+              Distributable Code, as reproduced in that file.
+
+Copyright (c) 2001 Python Software Foundation; All Rights Reserved.
+"Python" is a registered trademark of the Python Software Foundation. AT3 is
+not affiliated with or endorsed by the Python Software Foundation.
+
+
+SWSE (Stranger's Wrath Script Extender)
+---------------------------------------
+AT3 is an extension of SWSE, an unofficial modding platform for Oddworld:
+Stranger's Wrath HD, made by a separate developer. SWSE is NOT included with
+AT3 and is distributed separately under its own terms. AT3 requires it.
+
+
+PS2EXE
+------
+StrangerAT3\Stranger AT3.exe is Stranger_AT3_v2.ps1 compiled with PS2EXE
+(https://github.com/MScholtes/PS2EXE, Microsoft Public License). The
+PowerShell source it was compiled from ships beside it.
